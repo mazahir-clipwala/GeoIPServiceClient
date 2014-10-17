@@ -1,4 +1,4 @@
 GeoIPServiceClient
 ==================
 
-GeoIPServiceClient - This is Web Sevice Client
+GeoIPServiceClient - This is Web Service Client
